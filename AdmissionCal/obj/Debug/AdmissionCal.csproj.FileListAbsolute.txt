@@ -1,0 +1,9 @@
+E:\เคยู้เคยู\2-2\intro to com\AdmissionCal\AdmissionCal\bin\Debug\AdmissionCal.exe.config
+E:\เคยู้เคยู\2-2\intro to com\AdmissionCal\AdmissionCal\bin\Debug\AdmissionCal.exe
+E:\เคยู้เคยู\2-2\intro to com\AdmissionCal\AdmissionCal\bin\Debug\AdmissionCal.pdb
+E:\เคยู้เคยู\2-2\intro to com\AdmissionCal\AdmissionCal\obj\Debug\AdmissionCal.csprojResolveAssemblyReference.cache
+E:\เคยู้เคยู\2-2\intro to com\AdmissionCal\AdmissionCal\obj\Debug\AdmissionCal.Form1.resources
+E:\เคยู้เคยู\2-2\intro to com\AdmissionCal\AdmissionCal\obj\Debug\AdmissionCal.Properties.Resources.resources
+E:\เคยู้เคยู\2-2\intro to com\AdmissionCal\AdmissionCal\obj\Debug\AdmissionCal.csproj.GenerateResource.Cache
+E:\เคยู้เคยู\2-2\intro to com\AdmissionCal\AdmissionCal\obj\Debug\AdmissionCal.exe
+E:\เคยู้เคยู\2-2\intro to com\AdmissionCal\AdmissionCal\obj\Debug\AdmissionCal.pdb
